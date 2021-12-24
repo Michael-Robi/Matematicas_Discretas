@@ -1,3 +1,3 @@
 # Matematicas_Discretas
 
-Curso
+Curso Descargar video por video o toda la carpeta por
