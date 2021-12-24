@@ -12,7 +12,7 @@ Descargar toda la carpeta por la opción: Code > Download ZIP
 Para descargar un video, seleccione el titulo del video
 ![image](https://user-images.githubusercontent.com/77336151/147320089-2c0f8081-a79c-4008-ad66-c4ceeef3a200.png)
 
-Luego Click en Descargar
+Luego Click en Download
 ![image](https://user-images.githubusercontent.com/77336151/147320135-57594987-89a6-4a43-8014-6081232e11bb.png)
 
 
