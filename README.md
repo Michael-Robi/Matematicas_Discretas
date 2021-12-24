@@ -1,8 +1,7 @@
 # Matematicas_Discretas
 
-```
 **Nota:** Descargar toda la carpeta puede demorar de 1 a 3 horas, y por video es mas rapido.
-```
+
 
 ### Metodo 1 Descargar toda la carpeta
 
